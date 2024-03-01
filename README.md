@@ -1,15 +1,3 @@
-## ASDASD
-
-
-
-
-
-
-
-
-
-
-
 **This guide does not reflect the interviewing policies from Google (or any other company).**
 
 ## Interview Process (45–60 min)
